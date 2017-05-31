@@ -1,23 +1,44 @@
 .green {
+	width:200px;
     background-color: green;
     height: 200px;
+    border: 10px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 200px 0 0px 0;
 }
 
 .red {
+	width:200px;
     background-color: red;
     height: 200px;
+    border: 10px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 0px 200px 0px 0;
 }
 
 .space {
+
     height: 20%;
 }
 
 .yellow {
+	width:200px;
     background-color: yellow;
     height: 200px;
+    border: 10px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 0 0  0 200px;
 }
 
 .blue {
+	width:200px;
     background-color: blue;
-    height:200px;
+    height: 200px;
+    border: 10px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 0 0 200px 0px ;
 }
